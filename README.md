@@ -37,8 +37,10 @@ Include details like distance, travel time, and a brief description.
 Add an accordion or tabbed interface for topics like transportation, accommodation, and safety tips using Bootstrap components.
 
 <br/>
+
 1.Home Page
 ![image alt](https://github.com/OmkarM9090/Travel-And-Tourism/blob/02280e115d8f981109f1400ddf6a45df6f630f22/Screenshot%20(13).png)
+
 2.Information
 ![image alt](https://github.com/OmkarM9090/Travel-And-Tourism/blob/0f7c252365594cbd5524449e10ac61f2278170ca/Screenshot%20(12).png)
 3.Maps
