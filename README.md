@@ -44,7 +44,7 @@ Add an accordion or tabbed interface for topics like transportation, accommodati
 2.Information
 ![image alt](https://github.com/OmkarM9090/Travel-And-Tourism/blob/0f7c252365594cbd5524449e10ac61f2278170ca/Screenshot%20(12).png)
 3.Maps
-![image alt]()
+![image alt](https://github.com/OmkarM9090/Travel-And-Tourism/blob/1da9e711c266b2bfcb6410e942228bcb811a3077/Screenshot%202024-10-18%20143152.png)
 4.Sections
 ![image alt]()
 5.Images
