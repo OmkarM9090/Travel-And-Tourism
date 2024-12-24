@@ -38,13 +38,13 @@ Add an accordion or tabbed interface for topics like transportation, accommodati
 
 <br/>
 1.Home Page
-![image](https://github.com/OmkarM9090/Travel-And-Tourism/blob/02280e115d8f981109f1400ddf6a45df6f630f22/Screenshot%20(13).png)
+![image alt](https://github.com/OmkarM9090/Travel-And-Tourism/blob/02280e115d8f981109f1400ddf6a45df6f630f22/Screenshot%20(13).png)
 2.Information
-![image]()
+![image alt](https://github.com/OmkarM9090/Travel-And-Tourism/blob/0f7c252365594cbd5524449e10ac61f2278170ca/Screenshot%20(12).png)
 3.Maps
-![image]()
+![image alt]()
 4.Sections
-![image]()
+![image alt]()
 5.Images
-![image]()
+![image alt]()
 
