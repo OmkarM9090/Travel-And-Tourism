@@ -1,6 +1,8 @@
 # Travel-And-Tourism
 Welcome to Maharastra Tourism, your ultimate travel companion! We are passionate about connecting travelers with unforgettable experiences, breathtaking destinations, and seamless journeys. Whether you’re dreaming of pristine beaches, bustling cityscapes, or serene mountain retreats, we’ve got you covered.
 <br/>
+
+
 <b>Website Features<b/>
 
 
@@ -48,5 +50,5 @@ Add an accordion or tabbed interface for topics like transportation, accommodati
 4.Sections
 ![image alt](https://github.com/OmkarM9090/Travel-And-Tourism/blob/7c359cc718f2e32f7256836ccedd331586d46140/Screenshot%202024-10-17%20212059.png)
 5.Images
-![image alt]()
+![image alt](https://github.com/OmkarM9090/Travel-And-Tourism/blob/81e6ef35746e843a825981fd1cbc452bb7516f6e/Screenshot%20(11).png)
 
